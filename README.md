@@ -4,3 +4,7 @@ sana ullah
 variant 
 color
  dark mode
+
+ payment 
+ recived 
+ 
