@@ -7,4 +7,7 @@ color
 
  payment 
  recived 
+
+ cricket history 
+ player score wickets
  
