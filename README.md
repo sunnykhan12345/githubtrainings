@@ -7,4 +7,8 @@ color
 
  payment 
  recived 
+
+ payments add
+ send money 
+ recived money
  
